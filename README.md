@@ -2,8 +2,9 @@
 
 # Start todoappv1 in port 4201
 
+https://github.com/athishsreeram/todoappv1.git(https://github.com/athishsreeram/todoappv1.git)
+
 ```
-https://github.com/athishsreeram/todoappv1.git
 
 cd todoappv1
 
@@ -11,10 +12,12 @@ ng serve
 
 ```
 
-# Start hostapp in port 4201
+# Start hostapp in port 4200
+
+https://github.com/athishsreeram/hostapp.git(https://github.com/athishsreeram/hostapp.git)
 
 ```
-https://github.com/athishsreeram/hostapp.git
+
 
 cd hostapp
 
