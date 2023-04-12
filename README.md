@@ -27,8 +27,8 @@ ng serve
 
 ```
 
-Navigate to `http://localhost:4200/` to Test Host App
+Navigate to `http://localhost:4200/` to Host App
 
-Navigate to `http://localhost:4201/` too Test Todo App
+Navigate to `http://localhost:4201/` to Todo App
 
 Navigate to `http://localhost:4200/todo/todo-list` link we can TodoAppModule is shown using Module Federation
